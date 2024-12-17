@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 27be642af83aedb47a0dafa17c4d2ed3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1821762223736200405
+    second: icon - Kopya_0
+  - first:
+      213: 6705686270426595883
+    second: icon - Kopya_1
+  - first:
+      213: 3475333035792927732
+    second: icon - Kopya_2
+  - first:
+      213: 5744181452368027578
+    second: icon - Kopya_3
+  - first:
+      213: 6461097308950652792
+    second: icon - Kopya_4
+  - first:
+      213: -4133268972899292037
+    second: icon - Kopya_5
+  - first:
+      213: -5621992159301182349
+    second: icon - Kopya_6
+  - first:
+      213: 2358111098911876995
+    second: icon - Kopya_7
+  - first:
+      213: 4515443630505493777
+    second: icon - Kopya_8
+  - first:
+      213: 3011782289174086218
+    second: icon - Kopya_9
+  - first:
+      213: 1695656042069501031
+    second: icon - Kopya_10
+  - first:
+      213: 3597422304106371008
+    second: icon - Kopya_11
+  - first:
+      213: 6266113150822716018
+    second: icon - Kopya_12
+  - first:
+      213: 5887321230364927823
+    second: icon - Kopya_13
+  - first:
+      213: -764028087696205577
+    second: icon - Kopya_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon - Kopya_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 113
+        width: 802
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc95032713384910800000000000000
+      internalID: 1821762223736200405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon - Kopya_1
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 302
+        width: 161
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22cdfb72226f0d50800000000000000
+      internalID: 6705686270426595883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon - Kopya_2
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 579
+        width: 142
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb0e92abfcda3030800000000000000
+      internalID: 3475333035792927732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon - Kopya_3
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 579
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf98c1d89e67bf40800000000000000
+      internalID: 5744181452368027578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon - Kopya_4
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 579
+        width: 111
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8776c3725cd6aa950800000000000000
+      internalID: 6461097308950652792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon - Kopya_5
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 579
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ca135a4cda3a6c0800000000000000
+      internalID: -4133268972899292037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon - Kopya_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 579
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c52deeaebaaf1b0800000000000000
+      internalID: -5621992159301182349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon - Kopya_7
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 579
+        width: 108
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3876c87fc81b9b020800000000000000
+      internalID: 2358111098911876995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon - Kopya_8
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 349
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115849fde041aae30800000000000000
+      internalID: 4515443630505493777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon - Kopya_9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 346
+        width: 98
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42c80fe8000cc920800000000000000
+      internalID: 3011782289174086218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon - Kopya_10
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 346
+        width: 122
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7642cc0bf2e288710800000000000000
+      internalID: 1695656042069501031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon - Kopya_11
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 346
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7d35f868c9ce130800000000000000
+      internalID: 3597422304106371008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon - Kopya_12
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 349
+        width: 105
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272113d16b4b5f650800000000000000
+      internalID: 6266113150822716018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon - Kopya_13
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 349
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4764867777f3b150800000000000000
+      internalID: 5887321230364927823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon - Kopya_14
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 349
+        width: 174
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f852729080a565f0800000000000000
+      internalID: -764028087696205577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icon - Kopya_0: 1821762223736200405
+      icon - Kopya_1: 6705686270426595883
+      icon - Kopya_10: 1695656042069501031
+      icon - Kopya_11: 3597422304106371008
+      icon - Kopya_12: 6266113150822716018
+      icon - Kopya_13: 5887321230364927823
+      icon - Kopya_14: -764028087696205577
+      icon - Kopya_2: 3475333035792927732
+      icon - Kopya_3: 5744181452368027578
+      icon - Kopya_4: 6461097308950652792
+      icon - Kopya_5: -4133268972899292037
+      icon - Kopya_6: -5621992159301182349
+      icon - Kopya_7: 2358111098911876995
+      icon - Kopya_8: 4515443630505493777
+      icon - Kopya_9: 3011782289174086218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
